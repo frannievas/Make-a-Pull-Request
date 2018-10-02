@@ -5,6 +5,7 @@
 
 - Fork this Repository using the button at the top
 - Clone your forked repository to your pc
+- Create a new branch  (ie. ```git branch new-user``` and check it out ```git checkout new-user``` or ```git checkout -b new-user```) this is for your modifications
 - Add your info in Students\
 - Add your files (```git add -A```), commit (```git commit -m "added myself"```) and push (```git push origin new-student```)
 - Create a pull request
